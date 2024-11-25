@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Leonardo Munoz</h1>
 <h3 align="center">A passionate full stac developer from Venezuela</h3>
 
-- 🔭 I’m currently working on [taskyist](https://github.com/4GeeksAcademy/DanielBayona-FinalProject-32)
+- 🔭 I’m currently working on [Mi final project fake customer food](https://github.com/4GeeksAcademy/leonardomunooz-fake-supermaket-api)
 
 - 📫 How to reach me **leonardonms1331@gmail.com**
 
